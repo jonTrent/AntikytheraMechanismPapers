@@ -1,6 +1,6 @@
 # Antikythera Mechanism Papers
 
-This repository hosts a pair of papers concerning the Antikythera Mechanism, proposing hypothetical gearing that proposes...
+This repository hosts a pair of papers on the Antikythera Mechanism, providing detailed explanations on hypothetical dials and gearing that proposes...
 
 - the use of the A1 gear ( 223 teeth ) and B1 crown gear ( 48 teeth ) to align the Egyptian Calendar Ring, and
 - the use of the superfluous 63 tooth gear to indicate Eclipse Seasons.
